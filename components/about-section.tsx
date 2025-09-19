@@ -12,7 +12,7 @@ export function AboutSection() {
           <div className="relative">
             <div className="aspect-square rounded-lg overflow-hidden border-2 border-red-600 shadow-[0_0_25px_rgba(255,0,0,0.7)]">
               <img
-                src="/cybersecurity-professional.jpg"
+                src="/cybersecurity-professional.webp"
                 alt="Cybersecurity professional"
                 className="w-full h-full object-cover"
               />

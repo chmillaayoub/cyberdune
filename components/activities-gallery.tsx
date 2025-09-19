@@ -4,12 +4,12 @@ import { useState } from "react"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 
 const galleryItems = [
-  { id: "bootcamp", title: "Bootcamp", image: "/bootcamp.jpg", description: "CyberDune organized a 4-day online bootcamp to welcome new members and introduce them to CTF competitions and essential cybersecurity skills through interactive sessions and hands-on challenges." },
-  { id: "first_meeting", title: "First Meeting", image: "/first_meeting.jpg", description: "Our first meeting brought members together to introduce the club’s vision, present the office team, and share upcoming plans, creating a welcoming space for collaboration and growth." },
-  { id: "ctf_session", title: "CTF Session", image: "/ctf_session.jpg", description: "CyberDune held a CTF training session focused on Forensics, introducing members to digital investigation techniques and practical challenges that sharpen problem-solving and analytical skills." },
-  { id: "cyber_tools", title: "Cyber Tools", image: "/cyber_tools.jpg", description: "In this session, members were introduced to Metasploit, exploring its features and learning how it can be used as a powerful tool in penetration testing and cybersecurity practice." },
-  { id: "lets_h4ck", title: "Let's H4ck L'3otla", image: "/let's_h4ack_l'3otla.jpg", description: "A 3-week program combining sessions on Cryptography, Web, Forensics, and more, along with CTF challenges and fun game times, offering members both learning and community-building experiences." },
-  { id: "xmirage", title: "Xmirage CTF 2025", image: "/xmirage.jpg", description: "CyberDune proudly organized XMirage, the first-ever CTF competition in Southern Morocco — a milestone event that brought together students to showcase their skills, collaborate, and compete in cybersecurity challenges." },
+  { id: "bootcamp", title: "Bootcamp", image: "/bootcamp.webp", description: "CyberDune organized a 4-day online bootcamp to welcome new members and introduce them to CTF competitions and essential cybersecurity skills through interactive sessions and hands-on challenges." },
+  { id: "first_meeting", title: "First Meeting", image: "/first_meeting.webp", description: "Our first meeting brought members together to introduce the club’s vision, present the office team, and share upcoming plans, creating a welcoming space for collaboration and growth." },
+  { id: "ctf_session", title: "CTF Session", image: "/ctf_session.webp", description: "CyberDune held a CTF training session focused on Forensics, introducing members to digital investigation techniques and practical challenges that sharpen problem-solving and analytical skills." },
+  { id: "cyber_tools", title: "Cyber Tools", image: "/cyber_tools.webp", description: "In this session, members were introduced to Metasploit, exploring its features and learning how it can be used as a powerful tool in penetration testing and cybersecurity practice." },
+  { id: "lets_h4ck", title: "Let's H4ck L'3otla", image: "/let's_h4ack_l'3otla.webp", description: "A 3-week program combining sessions on Cryptography, Web, Forensics, and more, along with CTF challenges and fun game times, offering members both learning and community-building experiences." },
+  { id: "xmirage", title: "Xmirage CTF 2025", image: "/xmirage.webp", description: "CyberDune proudly organized XMirage, the first-ever CTF competition in Southern Morocco — a milestone event that brought together students to showcase their skills, collaborate, and compete in cybersecurity challenges." },
 ]
 
 export function ActivitiesGallery() {

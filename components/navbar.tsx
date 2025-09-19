@@ -44,7 +44,7 @@ export function Navbar() {
             onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
           >
             <div className="w-16 h-16 relative">
-              <img src="/logo.png" alt="CyberDune Logo" className="w-full h-full object-contain" />
+              <img src="/logo.webp" alt="CyberDune Logo" className="w-full h-full object-contain" />
             </div>
           </div>
 

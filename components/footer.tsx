@@ -11,7 +11,7 @@ export function Footer() {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <img
-                src="/logo.png"
+                src="/logo.webp"
                 alt="CyberDune Club"
                 className="h-10 w-10 rounded-lg shadow-red-600/50"
               />
@@ -77,7 +77,7 @@ export function Footer() {
               <div className="flex items-center text-gray-400">
                 <Mail className="h-4 w-4 mr-2 text-red-500" />
                 <span className="text-sm"><a
-              href="mailto:contact@cyberdune.ma"
+              href="mailto:cyberdunecontact@gmail.com"
               className="text-gray-300 hover:text-red-500 transition border-b border-gray-600 hover:border-red-600 pb-1"
             >
               cyberdunecontact@gmail.com
@@ -87,7 +87,7 @@ export function Footer() {
                 <Phone className="h-4 w-4 mr-2 text-red-500" />
                 <span className="text-sm">
                      <a
-              href="tel:+212643926418"
+              href="tel:+212771970185"
               className="text-gray-300 hover:text-red-500 transition border-b border-gray-600 hover:border-red-600 pb-1"
 >
               +212 771-970185

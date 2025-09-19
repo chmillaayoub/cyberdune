@@ -55,13 +55,13 @@ export function ContactSection() {
 
           <div className="flex flex-col sm:flex-row gap-8 mt-8 text-lg">
             <a
-              href="tel:+212643926418"
+              href="tel:+212771970185"
               className="text-gray-300 hover:text-red-500 transition border-b border-gray-600 hover:border-red-600 pb-1"
             >
               +212 771-970185
             </a>
             <a
-              href="mailto:contact@cyberdune.ma"
+              href="mailto:cyberdunecontact@gmail.com"
               className="text-gray-300 hover:text-red-500 transition border-b border-gray-600 hover:border-red-600 pb-1"
             >
               cyberdunecontact@gmail.com

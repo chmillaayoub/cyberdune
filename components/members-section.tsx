@@ -195,7 +195,8 @@ export function MembersSection() {
 
                 {/* glitching role → CTF type */}
                 <p className="text-sm text-red-600 mb-2">
-                  <GlitchText text={member.role} alt={member.ctfType} />
+                  {/* FIX: Provide a fallback value for ctfType to prevent passing 'undefined' to the component */}
+                  <GlitchText text={member.role} alt={member.ctfType || member.role} />
                 </p>
 
                 {/* field of study */}

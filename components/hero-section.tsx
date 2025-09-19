@@ -81,7 +81,7 @@ export function HeroSection() {
         }}
       >
         <img
-          src="/cyberdune_community.jpg"
+          src="/cyberdune_community.webp"
           alt="CyberDune Community"
           className="w-full h-full object-cover opacity-70"
         />

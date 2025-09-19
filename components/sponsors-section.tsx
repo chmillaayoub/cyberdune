@@ -6,13 +6,13 @@ import { useEffect, useState } from "react"
 const sponsors = [
   {
     name: "CIH Bank",
-    logo: "/cih-logo.png",
+    logo: "/cih-logo.webp",
     tier: "gold",
     description: "Leading banking solutions in Morocco",
   },
   {
     name: "Your Brand Here",
-    logo: "/logo.png",
+    logo: "/logo.webp",
     tier: "coming-soon",
     description: "Become our next sponsor! Contact us to join.",
   },
@@ -21,22 +21,22 @@ const sponsors = [
 const partnerships = [
   {
     name: "Soc4m",
-    logo: "/soc4m-logo.png",
+    logo: "/soc4m-logo.webp",
     description: "Moroccan cybersecurity community focused on SOC practices and defensive cybersecurity.",
   },
   {
     name: "Join Us",
-    logo: "/logo.png",
+    logo: "/logo.webp",
     description: "Want to collaborate with us? Contact us!",
   },
   {
     name: "Join Us",
-    logo: "/logo.png",
+    logo: "/logo.webp",
     description: "Want to collaborate with us? Contact us!",
   },
   {
     name: "Join Us",
-    logo: "/logo.png",
+    logo: "/logo.webp",
     description: "Want to collaborate with us? Contact us!",
   },
 ]
