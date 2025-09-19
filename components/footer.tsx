@@ -21,7 +21,7 @@ export function Footer() {
               experience in digital security.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="p-2 bg-gray-900 hover:bg-red-900/20 rounded-lg transition-colors group">
+              <a href="https://github.com/cyberdune-club" className="p-2 bg-gray-900 hover:bg-red-900/20 rounded-lg transition-colors group">
                 <Github className="h-5 w-5 text-gray-400 group-hover:text-red-500 transition-colors" />
               </a>
               <a href="https://www.linkedin.com/company/cyberdune/posts/?feedView=all" className="p-2 bg-gray-900 hover:bg-red-900/20 rounded-lg transition-colors group">
