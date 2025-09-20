@@ -11,7 +11,7 @@ export function Footer() {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <img
-                src="/logo.webp"
+                src="/logo.png"
                 alt="CyberDune Club"
                 className="h-10 w-10 rounded-lg shadow-red-600/50"
               />
