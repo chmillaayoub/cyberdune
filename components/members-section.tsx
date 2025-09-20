@@ -75,7 +75,7 @@ const members = [
     bio: "Student in Computer Engineering",
     social: {
       github: "https://github.com/Cyber-WolF01",
-      linkedin: "https://github.com/Cyber-WolF01",
+      linkedin: "https://www.linkedin.com/in/elhassan-iyahia/",
       email: "iyahiaelhassan@gmail.com",
     },
   },
