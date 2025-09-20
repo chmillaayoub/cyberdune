@@ -9,14 +9,14 @@ export const metadata: Metadata = {
   description: 'CyberDune - First Cybersecurity Club in The Moroccan Sahara',
   icons: {
     icon: [
-      { url: '/favicon.png', sizes: '32x32', type: 'image/png' },
-      { url: '/favicon.png', sizes: '16x16', type: 'image/png' }
+      { url: '/logo.png', sizes: '32x32', type: 'image/png' },
+      { url: '/logo.png', sizes: '16x16', type: 'image/png' }
     ],
-    apple: '/logo.png'
+    apple: '/logo.webp'
   },
   openGraph: {
     title: 'CyberDune',
-    images: ['/favicon.png'],
+    images: ['/logo.webp'],
   }
 }
 
