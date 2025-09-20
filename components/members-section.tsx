@@ -46,7 +46,7 @@ const members = [
     nickname: "Qino",
     role:"HR",
     ctfType: "Generalist",
-    image: "/HR.png",
+    image: "/aroussi_abderrahmane.png",
     bio: "Student in Computing Networks and Security",
     social: {
       github: "https://github.com/Abderrahmane-Aroussi",
