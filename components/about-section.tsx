@@ -8,6 +8,7 @@ export function AboutSection() {
     <section id="about" className="py-20 bg-black font-mono">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+          
           {/* Left side image */}
           <div className="relative">
             <div className="aspect-square rounded-lg overflow-hidden border-2 border-red-600 shadow-[0_0_25px_rgba(255,0,0,0.7)]">
@@ -17,15 +18,14 @@ export function AboutSection() {
                 className="w-full h-full object-cover"
               />
             </div>
-
-            <div className="absolute right-0 top-1/2 w-1 h-32 bg-red-600 transform -translate-y-1/2" />
           </div>
 
           {/* Right side text */}
           <div className="text-white">
             <h2 className="text-4xl font-bold mb-8 flex items-center gap-2 drop-shadow-[0_0_15px_rgba(255,0,0,0.7)]">
-              <span className="text-red-600">✦</span>  <span className="text-white">About </span>
-        <span className="text-red-500 drop-shadow-[0_0_8px_rgba(255,0,0,0.7)]">Us</span>
+              <span className="text-red-600">✦</span>  
+              <span className="text-white">About </span>
+              <span className="text-red-500 drop-shadow-[0_0_8px_rgba(255,0,0,0.7)]">Us</span>
             </h2>
 
             <div className="space-y-6">
